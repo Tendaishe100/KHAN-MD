@@ -7,184 +7,184 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {KHAN-MD~IDFSFA4b#DqFBZaiaVDqSP7xZKeFoVyMhwVQBmhEasIveYTfrT80} 
       "description": "Put the session-id here.",
       "required": true,
       "value": ""
     },  
     
-    "STICKER_NAME": {
+    "STICKER_NAME": {. 
       "description": "type your sticker pack name.",
       "required": false,
       "value": "KHAN-MD"
     }, 
       
-    "PREFIX": {
-      "description": "paste your bot prefix note! Don't apply null prefix.",
+    "PREFIX": {. 
+      "description": ". Play",
       "required": false,
       "value": "."
     },
     
     "MODE": {
-      "description": "select your bot work type public-private-inbox-group.",
+      "description": "public",
       "required": false,
       "value": "public"
       
     },
     
     
-    "ALWAYS_ONLINE": {
+    "ALWAYS_ONLINE": {true
       "description": "Make it true if want always online.",
       "required": false,
       "value": "false"  
     },    
   
-    "AUTO_VOICE": {
+    "AUTO_VOICE": {true
       "description": "Make it true if want automatic voice reply .",
       "required": false,
       "value": "false"
     }, 
 
-    "AUTO_REPLY": {
+    "AUTO_REPLY": {true
       "description": "Make it true if you want automatic reply.",
       "required": false,
       "value": "false"
     }, 
 
-    "AUTO_STICKER": {
+    "AUTO_STICKER": {false
       "description": "Make it true if you want automatic sticker.",
       "required": false,
       "value": "false"
     }, 
 
 
-    "AUTO_STATUS_SEEN": {
+    "AUTO_STATUS_SEEN": {true
       "description": "Make it true for automatic status seen.",
       "required": true,
       "value": "true"
     }, 
 
-    "AUTO_STATUS_REACT": {
+    "AUTO_STATUS_REACT": {false
       "description": "make it true for automatic status reaction or like.",
       "required": true,
       "value": "true"
     }, 
 
-    "AUTO_STATUS_REPLY": {
+    "AUTO_STATUS_REPLY": {false
       "description": "Make it true for auto reply msg on status seen.",
       "required": true,
       "value": "false"
     }, 
 
-    "AUTO_STATUS_MSG": {
+    "AUTO_STATUS_MSG": {false
       "description": "Type custom message on status reply",
       "required": true,
       "value": "*SEEN YOUR STATUS BY KHAN-MD 🖤*"
    
      }, 
     
-    "OWNER_NAME": {
+    "OWNER_NAME": {tktech
       "description": "Type Bot Owner Name.",
       "required": false,
       "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
 }, 
 
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {+263771826280
       "description": "put the owner number for bot.",
       "required": false,
       "value": "92310344XXXX"
 
     }, 
 
-    "BOT_NAME": {
+    "BOT_NAME": {tk-md
       "description": "Type here the bot name.",
       "required": false,
       "value": "KHAN-MD"
 
       }, 
 
-    "ANTI_LINK": {
+    "ANTI_LINK": {true
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
       "value": "true"
       
     },
 
-     "ANTI_LINK_KICK": {
+     "ANTI_LINK_KICK": {true
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
       "value": "false"
       
     },
     
-    "ANTI_BAD": {
+    "ANTI_BAD": {true
       "description": "Make it true if you want bot auto delete bad words.",
       "required": false,
       "value": "false"
     },
 
-   "MENTION_REPLY": {
+   "MENTION_REPLY": {true
       "description": "make it true if want mention reply if someone menetion you.",
       "required": false,
       "value": "false"
     },
     
-    "MENU_IMAGE_URL": {
+    "MENU_IMAGE_URL": {true
       "description": "add url for mention reply and menu if want.",
       "required": false,
       "value": "https://files.catbox.moe/7zfdcq.jpg"
     },
     
-     "DESCRIPTION": {
+     "DESCRIPTION": {false
       "description": "add caption for menu and other",
       "required": false,
       "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*"
     },
 
-      "DELETE_LINKS": {
+      "DELETE_LINKS": {true
       "description": "remove links from group automatically without removing member",
       "required": false,
       "value": "false"
     },
     
-    "AUTO_RECORDING": {
+    "AUTO_RECORDING": {false
       "description": "Make it true if you want auto recoding.",
       "required": false,
       "value": "false"
     },
 
-    "AUTO_TYPING": {
+    "AUTO_TYPING": {false
       "description": "Make it true if you want auto typing.",
       "required": false,
       "value": "false"
     },
 
-    "AUTO_REACT": {
+    "AUTO_REACT": {true
       "description": "Make it true if you want react on every message.",
       "required": false,
       "value": "false"
     },
     
-    "CUSTOM_REACT": {
+    "CUSTOM_REACT": {false
       "description": "Make it true if you want custom reactions.",
       "required": false,
       "value": "false"
       
     }, 
     
-    "CUSTOM_REACT_EMOJIS": {
+    "CUSTOM_REACT_EMOJIS": {true
       "description": "put here custom react react emojis.",
       "required": false,
       "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
     }, 
     
-    "ANTI_DEL_PATH": {
+    "ANTI_DEL_PATH": {false
       "description": "change it to -same- if you want to resend deleted message in same chat",
       "required": false,
       "value": "log"
     }, 
 
-    "READ_MESSAGE": {
+    "READ_MESSAGE": {false
       "description": "Make it true if you want bot read your all sms just now.",
       "required": false,
       "value": "false"
